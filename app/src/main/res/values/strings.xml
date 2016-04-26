@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SIG Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <array name="nav_drawer_start_icons">
+        <item>@mipmap/ic_celeborn</item>
+        <item>@mipmap/ic_rivendell</item>
+        <item>@mipmap/ic_gollum</item>
+        <item>@mipmap/ic_elrond</item>
+
+    </array>
+
+    <string name="team1">Celeborn</string>
+    <string name="team2">Rivendell</string>
+    <string name="team3">Precious</string>
+    <string name="team4">Elrond</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/team1</item>
+        <item>@string/team2</item>
+        <item>@string/team3</item>
+        <item>@string/team4</item>
+    </string-array>
+
+    <string-array name="fellowship">
+        <item>fellow1</item>
+        <item>fellow2</item>
+        <item>fellow3</item>
+        <item>fellow4</item>
+
+    </string-array>
+
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_team_view">Teams</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
